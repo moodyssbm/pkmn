@@ -1,6 +1,6 @@
-cyndaquil
-larvitar
-flaaffy
-null
-null
-cyndaquil
+pupitar
+typhlosion
+feraligatr
+meganium
+ampharos
+xatu
